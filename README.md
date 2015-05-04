@@ -1,10 +1,10 @@
-ECE 391
+XiOS
 =======
 
 An operating system to win
 
 
-ECE391 MP3 - Package contents
+Package contents
 -------------------------------
 
 createfs
